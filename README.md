@@ -9,7 +9,7 @@ using Natural Language Processing (NLP) techniques.
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 
 ## 🔥 Live Demo
-[Click here to try the app](#) ← (add Streamlit link after deployment)
+[[Click here to try the app](https://akshay-fake-news-detection.streamlit.app/)](#) ← (add Streamlit link after deployment)
 
 ## 📊 Model Performance
 
